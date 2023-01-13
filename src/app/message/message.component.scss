@@ -1,0 +1,32 @@
+.container {
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.example-container {
+  width: 450px !important;
+  height: 435px !important;
+}
+
+mat-card-header {
+  background: #3452b4 !important;
+  color: white !important;
+}
+
+mat-card-actions {
+  background-color: #d3d7dbc9 !important;
+}
+
+.close-btn {
+  padding-top: 5px;
+  margin-bottom: 18px;
+  mat-icon {
+    cursor: pointer;
+  }
+}
+
+mat-spinner{
+  position: absolute;
+    top: 50%;
+    left: 50%;
+}

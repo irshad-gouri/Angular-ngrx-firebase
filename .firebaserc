@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "task-pro-backend": {
+      "hosting": {
+        "firebase-task-pro": [
+          "task-pro-backend"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "task-pro-backend"
+  }
+}
